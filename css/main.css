@@ -1,0 +1,46 @@
+h1{
+  text-align: center;
+    background-color: #a0bbe5;
+    margin-bottom: 0px;
+}
+h2{
+    margin-top: 5px;
+    background-color: #c9deff;
+}
+
+.Button {
+    background-color:#599bb3;
+    -moz-border-radius:28px;
+    -webkit-border-radius:28px;
+    border-radius:28px;
+    border:1px solid #29668f;
+    display:inline-block;
+    cursor:pointer;
+    color:#ffffff;
+    font-family:Arial;
+    font-size:17px;
+    padding:16px 31px;
+    text-decoration:none;
+    text-shadow:0px 1px 0px #3d768a;
+}
+.Button:hover {
+    background-color:#408c99;
+}
+.Button:active {
+    position:relative;
+    top:1px;
+}
+
+.Left{
+    float: left;
+}
+
+.Right{
+    float: right;
+}
+
+.Center{
+    background:green;
+    margin:0 auto;
+    display:inline-block
+}
